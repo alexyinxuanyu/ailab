@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;neural-networks-and-deep-learning/src/sklearnExample.py&apos; to &apos;test.py&apos;" description="Rename resource &apos;sklearnExample.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/sklearnExample.py" name="test.py" stamp="1493618161870" updateReferences="true"/>
+</session>

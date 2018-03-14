@@ -1,0 +1,21 @@
+-- VERSION_4
+-- START DISKCACHE_2
+F:\graduate\example\.metadata\.plugins\org.eclipse.core.resources\.projects\SimpleLinearRegression\com.python.pydev.analysis\v2_indexcache
+SLR|1491918687905089000|F:\graduate\example\SimpleLinearRegression\SimpleLinearRegression\SLR.py
+__init__|1491918687904089000|F:\graduate\example\SimpleLinearRegression\SimpleLinearRegression\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=SLR
+-- END DICTIONARY
+-- START TREE 1
+5
+fit|1|fitSLR!10@
+pre|1|prefict!10@
+x|1|x!11@
+y|1|y!11@
+y_p|1|y_predict!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

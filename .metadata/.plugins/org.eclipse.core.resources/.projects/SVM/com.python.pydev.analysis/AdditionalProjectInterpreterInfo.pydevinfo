@@ -1,0 +1,44 @@
+-- VERSION_4
+-- START DISKCACHE_2
+F:\graduate\example\.metadata\.plugins\org.eclipse.core.resources\.projects\SVM\com.python.pydev.analysis\v2_indexcache
+SKLearnsimple|1493610416816988000|F:\graduate\example\SVM\SVM\SKLearnsimple.py
+SVMImplementation|1491918209076702000|F:\graduate\example\SVM\SVM\SVMImplementation.py
+sklearnExample|1491918208976696000|F:\graduate\example\SVM\SVM\sklearnExample.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+3=SKLearnsimple
+1=SVMImplementation
+2=sklearnExample
+-- END DICTIONARY
+-- START TREE 1
+25
+X|2|X!11@X!19@
+Y|1|Y!19@
+a|1|a!19@
+b|1|b!19@
+clf|3|clf!27@clf!19@clf!11@
+eig|2|eigenface_titles!11@eigenfaces!11@
+iri|1|iris!27@
+lfw|1|lfw_people!11@
+n_c|2|n_components!11@n_classes!11@
+n_f|1|n_features!11@
+par|1|param_grid!11@
+pca|1|pca!11@
+plo|1|plot_gallery!10@
+pre|2|predictedLabel!27@prediction_titles!11@
+t0|1|t0!11@
+tar|1|target_names!11@
+tit|1|title!10@
+w|1|w!19@
+x|1|x!27@
+x_t|2|X_train_pca!11@X_test_pca!11@
+xx|1|xx!19@
+y|2|y!27@y!11@
+y_p|1|y_pred!11@
+yy|1|yy!19@
+yy_|2|yy_down!19@yy_up!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

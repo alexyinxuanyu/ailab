@@ -1,0 +1,35 @@
+-- VERSION_4
+-- START DISKCACHE_2
+F:\graduate\example\.metadata\.plugins\org.eclipse.core.resources\.projects\NN\com.python.pydev.analysis\v2_indexcache
+handwrittennumber|1491918364545594000|F:\graduate\example\NN\NN\handwrittennumber.py
+nonlineartest|1491918364559595000|F:\graduate\example\NN\NN\nonlineartest.py
+NeuralNetwork|1491918364556595000|F:\graduate\example\NN\NN\NeuralNetwork.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=handwrittennumber
+2=nonlineartest
+3=NeuralNetwork
+4=NeuralNetwork.__init__
+-- END DICTIONARY
+-- START TREE 1
+10
+X|2|X!11@X!19@
+dig|1|digits!11@
+lab|2|labels_train!11@labels_test!11@
+log|2|logistic!26@logistic_derivative!26@
+neu|1|NeuralNetwork!25@
+nn|2|nn!19@nn!11@
+o|1|o!11@
+pre|1|predictions!11@
+tan|2|tanh_deriv!26@tanh!26@
+y|2|y!19@y!11@
+-- END TREE
+-- START TREE 2
+5
+__i|1|__init__!3&26@
+act|2|activation!4&27@activation_deriv!4&27@
+fit|1|fit!3&26@
+pre|1|predict!3&26@
+wei|1|weights!4&27@
+-- END TREE

@@ -1,0 +1,11 @@
+from tkinter import *  
+  
+root = Tk()  
+  
+# 简单就是美！  
+for a in ['n', 's', 'e', 'w', 'ne', 'nw', 'se', 'sw']:  
+    Button(root,  
+           text='anchor',  
+           anchor=a,  
+           width=30,  
+           height=4).pack()  

@@ -1,0 +1,9 @@
+MODULES_MANAGER_V2
+wxpython.IRIR|F:\graduate\example\GUI\wxpython\IRIR.py
+wxpython.__init__|F:\graduate\example\GUI\wxpython\__init__.py
+wxpython.entry|F:\graduate\example\GUI\wxpython\entry.py
+wxpython.grid|F:\graduate\example\GUI\wxpython\grid.py
+wxpython.gridtest|F:\graduate\example\GUI\wxpython\gridtest.py
+wxpython.scatter|F:\graduate\example\GUI\wxpython\scatter.py
+wxpython.test|F:\graduate\example\GUI\wxpython\test.py
+wxpython.test2|F:\graduate\example\GUI\wxpython\test2.py

@@ -1,0 +1,22 @@
+-- VERSION_4
+-- START DISKCACHE_2
+F:\graduate\example\.metadata\.plugins\org.eclipse.core.resources\.projects\UnlinearRegression\com.python.pydev.analysis\v2_indexcache
+ULR|1491918589335451000|F:\graduate\example\UnlinearRegression\UnlinearRegression\ULR.py
+__init__|1491918589312450000|F:\graduate\example\UnlinearRegression\UnlinearRegression\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=ULR
+-- END DICTIONARY
+-- START TREE 1
+6
+alp|1|alpha!11@
+gen|1|genData!10@
+gra|1|gradientDescent!10@
+n_y|1|n_y!11@
+num|1|numIterations!11@
+the|1|theta!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

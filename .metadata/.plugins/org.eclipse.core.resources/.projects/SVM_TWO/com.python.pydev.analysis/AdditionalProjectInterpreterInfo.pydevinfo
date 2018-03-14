@@ -1,0 +1,32 @@
+-- VERSION_4
+-- START DISKCACHE_2
+F:\graduate\example\.metadata\.plugins\org.eclipse.core.resources\.projects\SVM_TWO\com.python.pydev.analysis\v2_indexcache
+__init__|1491918660390516000|F:\graduate\example\SVM_TWO\svm\__init__.py
+svm2|1491918660391516000|F:\graduate\example\SVM_TWO\svm\svm2.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=__init__
+-- END DICTIONARY
+-- START TREE 1
+16
+clf|1|clf!11@
+eig|2|eigenfaces!11@eigenface_title!11@
+lfw|1|lfw_people!11@
+n_c|2|n_classes!11@n_components!11@
+n_f|1|n_features!11@
+par|1|parag_grid!11@
+pca|1|pca!11@
+plo|1|plot_gallery!10@
+pre|1|prediction_titles!11@
+t0|1|t0!11@
+tar|1|target_names!11@
+tit|1|title!10@
+x|1|x!11@
+x_t|2|x_test_pca!11@x_train_pca!11@
+y|1|y!11@
+y_p|1|y_pred!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

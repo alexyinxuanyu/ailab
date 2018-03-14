@@ -1,0 +1,4 @@
+sns.FacetGrid(iris,hue="Species",size=4).map(plt.scatter,"SepalLengthCm","SepalWidthCm").add_legend()
+sns.FacetGrid(iris,hue="Species",size=4).map(plt.scatter,"PetalLengthCm","PetalWidthCm").add_legend()
+sns.FacetGrid(iris,hue="Species",size=4).map(plt.scatter,"SepalLengthCm","PetalLengthCm").add_legend()
+sns.FacetGrid(iris,hue="Species",size=4).map(plt.scatter,"SepalWidthCm","PetalWidthCm").add_legend()

@@ -1,0 +1,68 @@
+-- VERSION_4
+-- START DISKCACHE_2
+F:\graduate\example\.metadata\.plugins\org.eclipse.core.resources\.projects\neuralnetwork\com.python.pydev.analysis\v2_indexcache
+simpleTest1|1491916337822672000|F:\graduate\example\neuralnetwork\neuralnetwork\simpleTest1.py
+digitalReconginize|1491914276124750000|F:\graduate\example\neuralnetwork\neuralnetwork\digitalReconginize.py
+NeuralNetwork|1491914276126750000|F:\graduate\example\neuralnetwork\neuralnetwork\NeuralNetwork.py
+__init__|1491914276123750000|F:\graduate\example\neuralnetwork\neuralnetwork\__init__.py
+layer|1492325232533934000|F:\graduate\example\neuralnetwork\neuralnetwork\layer.py
+-- END DISKCACHE
+-- START DICTIONARY
+19
+5=simpleTest1
+7=OutputLayer
+16=HiddenLayer.update
+19=OutputLayer.setstd
+6=InputLayer
+17=OutputLayer.__init__
+13=OutputLayer.process
+3=NeuralNetwork
+2=layer
+8=HiddenLayer
+14=HiddenLayer.process
+18=SoftmaxLayer
+1=digitalReconginize
+15=SoftmaxLayer.process
+11=HiddenLayer.__init__
+12=InputLayer.process
+4=__init__
+9=NeuralNetwork.__init__
+10=InputLayer.__init__
+-- END DICTIONARY
+-- START TREE 1
+14
+dig|1|digits!11@
+hid|1|HiddenLayer!17@
+inp|1|InputLayer!17@
+lab|2|label_train!11@label_test!11@
+log|4|logistic!26@logistic!34@logistic_deriv!34@logistic_deriv!26@
+neu|2|NeuralNetwork!25@NeuralNetwork!33@
+nn|2|nn!43@nn!11@
+o|1|o!11@
+out|1|OutputLayer!17@
+pre|1|predictions!11@
+sof|1|SoftmaxLayer!17@
+tan|4|tanh_deriv!26@tanh_deriv!34@tanh!34@tanh!26@
+x|2|x!43@x!11@
+y|2|y!43@y!11@
+-- END TREE
+-- START TREE 2
+17
+__i|5|__init__!3&26@__init__!6&18@__init__!7&18@__init__!8&18@__init__!3&34@
+act|4|activation!9&27@activation!9&35@activation_deriv!9&35@activation_deriv!9&27@
+alp|2|alpha!10&19@alpha!11&19@
+cos|4|cost!12&19@cost!13&19@cost!14&19@cost!15&19@
+del|2|delta!13&19@delta!16&19@
+fit|2|fit!3&26@fit!3&34@
+get|3|getdelta!7&18@getresult!7&18@getdelta!8&18@
+lam|2|Lambda!10&19@Lambda!11&19@
+n_i|1|n_in!17&19@
+nxt|2|nxt!10&19@nxt!11&19@
+pre|2|predict!3&34@predict!3&26@
+pro|4|process!6&18@process!7&18@process!8&18@process!18&18@
+res|1|result!13&19@
+set|1|setstd!7&18@
+std|1|std!19&19@
+upd|1|update!8&18@
+wei|2|weights!9&27@weights!9&35@
+-- END TREE

@@ -1,0 +1,26 @@
+-- VERSION_4
+-- START DISKCACHE_2
+F:\graduate\example\.metadata\.plugins\org.eclipse.core.resources\.projects\MultiLinearRegression\com.python.pydev.analysis\v2_indexcache
+MLR|1491918763750427000|F:\graduate\example\MultiLinearRegression\MultiLinearRegression\MLR.py
+LR|1491918763749427000|F:\graduate\example\MultiLinearRegression\MultiLinearRegression\LR.py
+__init__|1491918763742427000|F:\graduate\example\MultiLinearRegression\MultiLinearRegression\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=MLR
+2=LR
+-- END DICTIONARY
+-- START TREE 1
+8
+dat|3|data!11@dataPath!19@datapath!11@
+del|1|deliveryData!19@
+lr|1|lr!19@
+mlr|1|mlr!11@
+x|2|x!11@x!19@
+xpr|2|xPredict!19@xPredict!11@
+y|2|y!19@y!11@
+ypr|2|yPredict!11@yPredict!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

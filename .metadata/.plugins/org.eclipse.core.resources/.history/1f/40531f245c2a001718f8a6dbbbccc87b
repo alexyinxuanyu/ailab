@@ -1,0 +1,42 @@
+import numpy as np  
+import matplotlib.pyplot as plt  
+from matplotlib.colors import ListedColormap  
+from sklearn import datasets  
+from sklearn.neighbors import KNeighborsClassifier  
+  
+#matplot显示图例中的中文问题 :   https://www.zhihu.com/question/25404709/answer/67672003  
+import matplotlib.font_manager as fm  
+#mac中的字体问题请看: https://zhidao.baidu.com/question/161361596.html  
+myfont = fm.FontProperties(fname='/Library/Fonts/Xingkai.ttc')  
+  
+iris=datasets.load_iris()  
+x=iris.data[:,2:4]   #取出花瓣的长和宽   
+y=iris.target       #取出类别  
+  
+#计算散点图的轴的边界  
+x_min,x_max=x[:,0].min() -.5, x[:,0].max()+.5  
+y_min, y_max=x[:,1].min()-.5, x[:,1].max()+.5  
+  
+#绘制边界  
+cmap_light=ListedColormap(['#AAAAFF','#AAFFAA','#FFAAAA'])  
+h=.02  
+xx,yy=np.meshgrid(np.arange(x_min,x_max,h),np.arange(y_min,y_max,h))  
+  
+knn=KNeighborsClassifier()  
+knn.fit(x,y)  
+Z=knn.predict( np.c_[xx.ravel(),yy.ravel()])  
+Z=Z.reshape(xx.shape)  
+plt.figure()  
+plt.pcolormesh(xx,yy,Z,cmap=cmap_light)  
+  
+plt.title(u'鸢尾花分类预测决策边界_根据花瓣长宽',fontproperties=myfont)  
+plt.xlabel(u'花瓣长',fontproperties=myfont)  
+plt.ylabel(u'花瓣宽',fontproperties=myfont)  
+  
+plt.scatter(x[:,0],x[:,1],c=y)  
+plt.xlim( xx.min(), xx.max() )  
+plt.ylim( yy.min(),yy.max() )  
+  
+  
+plt.savefig('python_8_7_带决策边界的2D散点图_根据花瓣数据绘制.png')  
+plt.show()  

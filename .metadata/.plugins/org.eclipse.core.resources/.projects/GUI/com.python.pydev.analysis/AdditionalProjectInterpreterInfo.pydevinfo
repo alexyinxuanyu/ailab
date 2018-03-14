@@ -1,0 +1,59 @@
+-- VERSION_4
+-- START DISKCACHE_2
+F:\graduate\example\.metadata\.plugins\org.eclipse.core.resources\.projects\GUI\com.python.pydev.analysis\v2_indexcache
+wxpython.IRIR|1493205801450160000|F:\graduate\example\GUI\wxpython\IRIR.py
+wxpython.__init__|1492329497898952000|F:\graduate\example\GUI\wxpython\__init__.py
+wxpython.gridtest|1493209653949993000|F:\graduate\example\GUI\wxpython\gridtest.py
+wxpython.test|1493207521012271000|F:\graduate\example\GUI\wxpython\test.py
+wxpython.test2|1493207603152756000|F:\graduate\example\GUI\wxpython\test2.py
+wxpython.grid|1493468007296147000|F:\graduate\example\GUI\wxpython\grid.py
+wxpython.scatter|1493197417109916000|F:\graduate\example\GUI\wxpython\scatter.py
+wxpython.entry|1492329515325076000|F:\graduate\example\GUI\wxpython\entry.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+6=wxpython.IRIR
+7=wxpython.__init__
+5=wxpython.gridtest
+3=wxpython.test
+8=wxpython.test2
+1=wxpython.grid
+2=wxpython.scatter
+4=wxpython.entry
+-- END DICTIONARY
+-- START TREE 1
+30
+LK|1|LK!11@
+Z|1|Z!19@
+b1|2|b1!27@b1!11@
+b2|1|b2!11@
+b3|1|b3!11@
+b4|1|b4!11@
+cma|1|cmap_light!19@
+e|1|e!35@
+e1|1|e1!43@
+e2|1|e2!43@
+ent|1|entry!35@
+h|1|h!19@
+iri|2|iris!19@iris!51@
+knn|1|knn!19@
+l1|2|l1!11@l1!27@
+l2|2|l2!27@l2!11@
+l3|2|l3!11@l3!27@
+l4|2|l4!27@l4!11@
+loo|4|loop!27@loop_text!27@loop!11@loop_text!11@
+mas|1|master!43@
+myf|1|myfont!19@
+on_|4|on_clickDT!10@on_click!26@on_click!10@on_click1!10@
+roo|5|root!59@root!11@root!35@root!27@root!67@
+rtn|1|rtnkey!34@
+she|4|sheet!27@sheet_text!11@sheet!11@sheet_text!27@
+sle|4|sleep_text!27@sleep_text!11@sleep!11@sleep!27@
+w|1|w!59@
+x|1|x!19@
+xls|4|xls!11@xls_text!11@xls_text!27@xls!27@
+y|1|y!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

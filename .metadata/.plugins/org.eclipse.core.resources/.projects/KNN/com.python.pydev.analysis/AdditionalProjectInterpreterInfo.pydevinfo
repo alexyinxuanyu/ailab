@@ -1,0 +1,33 @@
+-- VERSION_4
+-- START DISKCACHE_2
+F:\graduate\example\.metadata\.plugins\org.eclipse.core.resources\.projects\KNN\com.python.pydev.analysis\v2_indexcache
+KNNImplementation|1491918056753990000|F:\graduate\example\KNN\KNN\KNNImplementation.py
+iris|1493172804323620000|F:\graduate\example\KNN\KNN\iris.py
+KNN|1492693367665180000|F:\graduate\example\KNN\KNN\KNN.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+2=KNNImplementation
+3=iris
+1=KNN
+-- END DICTIONARY
+-- START TREE 1
+14
+com|1|ComputeEuclideanDistance!10@
+d_a|1|d_ag!11@
+d_b|1|d_bg!11@
+d_c|1|d_cg!11@
+d_d|1|d_dg!11@
+d_e|1|d_eg!11@
+d_f|1|d_fg!11@
+euc|1|euclideanDistance!18@
+get|3|getAccuracy!18@getResponse!18@getNeighbors!18@
+iri|1|iris!27@
+knn|1|knn!27@
+loa|1|loadDataset!18@
+mai|1|main!18@
+pre|1|predictedLabel!27@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

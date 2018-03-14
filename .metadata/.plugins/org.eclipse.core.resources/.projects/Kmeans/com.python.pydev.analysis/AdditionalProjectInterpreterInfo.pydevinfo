@@ -1,0 +1,25 @@
+-- VERSION_4
+-- START DISKCACHE_2
+F:\graduate\example\.metadata\.plugins\org.eclipse.core.resources\.projects\Kmeans\com.python.pydev.analysis\v2_indexcache
+Kmeans|1492260906886179000|F:\graduate\example\Kmeans\Kmeans\Kmeans.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=Kmeans
+-- END DICTIONARY
+-- START TREE 1
+10
+get|2|getLabelFromClosetCentroid!10@getCentroids!10@
+kme|1|kmeans!10@
+res|1|result!11@
+sho|1|shouldStop!10@
+tes|1|testX!11@
+upd|1|updateLabels!10@
+x1|1|x1!11@
+x2|1|x2!11@
+x3|1|x3!11@
+x4|1|x4!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
